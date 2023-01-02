@@ -1,0 +1,5 @@
+OS yang digunakan Windows 11
+Jalankan PS sebagai Administrator
+Ketik wsl --install
+untuk melihat linux lainnya gunakan perintah wsl -l-o
+menginstall linux favorit, gunakan perintah wsl --install -d NameofLinuxDistro.

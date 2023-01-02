@@ -8,3 +8,4 @@ daftarkan port 3000 pada firewall
 *sudo ufw allow 3000/tcp
 enable firewal
 *sudo ufw enable dan sudo ufw reload
+* atau bisa juga dengan perintah sudo ufw status untuk melihat status dari ufw

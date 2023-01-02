@@ -4,3 +4,7 @@ sudo apt -y upgrade
 sudo apt -y install nginx nginx-common nginx-core
 aktifkan nginx
 *sudo service nginx start
+daftarkan port 3000 pada firewall
+*sudo ufw allow 3000/tcp
+enable firewal
+*sudo ufw enable dan sudo ufw reload

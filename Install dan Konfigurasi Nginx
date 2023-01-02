@@ -1,3 +1,6 @@
+jalankan wsl ubuntu dari PS-Windows PowerShell
 sudo apt update
 sudo apt -y upgrade
 sudo apt -y install nginx nginx-common nginx-core
+aktifkan nginx
+*sudo service nginx start

@@ -3,5 +3,6 @@ Jalankan PS sebagai Administrator
 Ketik wsl --install
 untuk melihat linux lainnya gunakan perintah wsl -l-o
 menginstall linux favorit, gunakan perintah wsl --install -d NameofLinuxDistro.
-Menjalankan wsl
 Melakukan shutdown ketik wsl --shutdown
+Lakukan update dan upgrade. Perintahnya sudo apt update dan sudo apt upgrade.
+Menginstall ubuntu bisa juga dilakukan dari Microsoft Store -> cari Ubuntu

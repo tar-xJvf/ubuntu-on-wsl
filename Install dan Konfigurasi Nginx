@@ -8,3 +8,5 @@ daftarkan port 3000 pada firewall
 *sudo ufw allow 3000/tcp
 enable firewal
 *sudo ufw enable dan sudo ufw reload
+lakukan test server- jalankan browser dari komputer host
+*ketik pada address bar http://localhost
